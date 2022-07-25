@@ -3,7 +3,13 @@ LESSON NAME
 
 Intro
 
+.. math::
 
+   a=b+c
+
+\begin{equation}
+a=b+c
+\end{equation}
 
 .. prereq::
 
